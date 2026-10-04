@@ -1,0 +1,13 @@
+.gitignore
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.env.local
+
+# Django generated files
+*.sqlite3
+staticfiles/
